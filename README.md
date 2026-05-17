@@ -2,6 +2,8 @@
 
 This project is a high-end pre-order landing page for a futuristic VR headset called **Nebula-1**. The design focuses on a premium, immersive aesthetic using dark mode, glassmorphism, and vibrant neon accents.
 
+🔗 **Live Preview:** [https://abhijeetsinghdevgan.github.io/daily-ui-075-pre-order/](https://abhijeetsinghdevgan.github.io/daily-ui-075-pre-order/)
+
 ## 🚀 Key Features
 
 - **Futuristic Aesthetics**: A cinematic dark theme with radial glows, glassmorphism, and custom typography (Orbitron & Inter).
