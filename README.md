@@ -21,32 +21,4 @@ This project is a high-end pre-order landing page for a futuristic VR headset ca
 
 The hero section features a high-fidelity image of the Nebula-1 headset, surrounded by glowing elements and a clear Call to Action (CTA) for pre-ordering.
 
----
 
-## 🔗 Social Media Copy
-
-### 🐦 Twitter/X
-> Day 75 of #DailyUI: Pre-Order 🚀
-> 
-> Designed a futuristic landing page for the "Nebula-1" VR headset. Neural-sync immersion meets sleek glassmorphism. 🌌
-> 
-> Check out the live countdown! ⏱️
-> 
-> #WebDesign #UIUX #DailyUI075 #Frontend #VR
-
-### 💼 LinkedIn
-> 🚀 **Daily UI Challenge #075: Pre-Order Page**
-> 
-> For today's challenge, I focused on creating an immersive pre-order experience for a fictional next-gen VR headset, the **Nebula-1**.
-> 
-> **Design Philosophy:**
-> I wanted to evoke a sense of "the future is here." By using a deep onyx background with cyan and purple glows, I aimed for a cinematic, premium feel that matches high-end hardware.
-> 
-> **Technical Highlights:**
-> - Glassmorphic UI elements for a modern, airy feel.
-> - Responsive design that maintains impact across all screen sizes.
-> - Custom JS countdown to drive conversion and urgency.
-> 
-> What do you think of this futuristic vibe? Let me know in the comments! 👇
-> 
-> #DailyUI #UserInterface #WebDevelopment #ProductDesign #UIUXDesign #FrontendDeveloper
